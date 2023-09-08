@@ -11,15 +11,15 @@
 
 - 🌱 I’m currently learning **Federated Learning, Explainable AI**
 
-- 👨‍💻 All of my projects are available at [here](r.t)
+- 👨‍💻 All of my projects are available at [here](rajieb.tech)
 
-- 📝 I regularly write articles on [here](r.t)
+- 📝 I regularly write articles on [here](rajieb.tech)
 
 - 💬 Ask me about **Python, Machine Learning, ReactJS, Django, Java, C++**
 
 - 📫 How to reach me **you can't**
 
-- 📄 Know about my experiences [here](r.t/r)
+- 📄 Know about my experiences [here](rajieb.tech)
 
 - ⚡ Fun fact **I am lazy, confident, versatile voyager, stoic with a bit of sociopathic trait. I am a Batman fan.**
 
