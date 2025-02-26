@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Telsa</h1>
+<h1 align="center">Ayo</h1>
 <h3 align="center">A mathematics freak who lives 24/7 on @python to solve some real world problem and plays with manim for fun</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tesla1618&label=Profile%20views&color=0e75b6&style=flat" alt="tesla1618" /> </p>
